@@ -1,0 +1,7 @@
+numpy
+streamlit
+tensorflow
+joblib
+opencv-python-headless
+matplotlib
+scikit-learn==1.3.2
